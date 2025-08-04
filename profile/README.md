@@ -23,3 +23,7 @@ Our mission is to digitize the local engagement of relational populations throug
 
 We are a multidisciplinary team of developers, designers, and planners committed to leveraging technology to solve real-world social challenges.  
 Together, we explore new ways to connect people and places—starting with Ganghwa Island, South Korea.
+
+## 🤝 Collaboration Strategy
+
+> [협업전략.md](https://github.com/eul-lab/.github/blob/main/docs/협업전략.md)
