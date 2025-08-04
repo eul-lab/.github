@@ -8,13 +8,13 @@ Our mission is to digitize the local engagement of relational populations throug
 
 ## 🚀 Project Goals
 
-### goals
+### Goals 📌
 
 - Collect and visualize real-time data of relational population activities through AR gameplay.
 - Develop a strategic platform that enables multi-layered engagement between users and the local community.
 - Support sustainable local development by providing data-driven insights to policymakers and regional stakeholders.
 
-### non-goals
+### Non-Goals ⚠️
 
 - Not aiming to increase short-term tourism or one-time visits.
 - Not intended to directly increase residential population in the region.
